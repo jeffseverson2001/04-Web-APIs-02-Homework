@@ -23,8 +23,14 @@ nav a {
 main {
     margin-top: 50px;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2rem;
 }
 
 button {
@@ -45,6 +51,11 @@ button {
 
 .right {
     display: right;
+}
+
+#questions p {
+    margin-top: 7px;
+    padding: 3px;
 }
 
 /*
