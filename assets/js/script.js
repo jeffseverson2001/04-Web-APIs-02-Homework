@@ -87,20 +87,6 @@ function assembleQuiz() {
         document.body.appendChild(quizAnswerQuestion);
     }
 
-    //document.body.appendChild(quizAnswerQuestion);
-
-    //let submitButton = document.createElement("button");
-    //submitButton.innerHTML = "Submit";
-    //document.body.appendChild(submitButton);
-
-    //quizQuestions[questionNumber].forEach(element => console.log(element));
-
-
-    
-    //document.getElementById("questions").innerHTML = quizQuestions[questionNumber].answers;
-
-
-
 }
 
 
