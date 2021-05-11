@@ -29,7 +29,7 @@ let quizQuestions = [
         answers: ["Yellow", "Red", "Orange", "Black"],
         correctAnswer: "Red"
     }
-
+];
 
 console.log(quizQuestions);
 
